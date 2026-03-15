@@ -101,7 +101,7 @@ A repository-based knowledge base addresses these issues naturally because it in
 A simple structure often works best:
 
 `knowledge-base/`
--`logic/`
+- `logic/`
 - `architecture/`
 - `quality/`
 - `infrastructure/`
