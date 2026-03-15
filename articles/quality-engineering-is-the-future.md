@@ -1,4 +1,4 @@
-# Why Quality Engineering Is the Future of Software Testing
+# Why Quality Engineering is the future of Software Testing
 
 For decades, software testing was treated as a distinct phase of development. Code was written first, then handed over to testers whose job was to verify whether it worked. This model worked reasonably well in slower development cycles, but modern software development has fundamentally changed the environment in which testing operates.
 
