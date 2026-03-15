@@ -10,7 +10,7 @@ Using a GitHub repository as a knowledge base may sound unconventional at first,
 
 Let’s explore why a GitHub-based knowledge base can be a powerful model.
 
-## Knowledge Should Behave Like Code 
+## Knowledge should Behave like Code 
 
 Modern software development relies on principles that work remarkably well for knowledge:
 - Version control
@@ -30,7 +30,7 @@ When knowledge lives in Markdown files inside a repository, it automatically gai
 
 Instead of static documentation pages, knowledge becomes a living artifact.
 
-## Documentation as Markdown: Simplicity Wins
+## Documentation as Markdown: Simplicity wins
 
 Most repositories use simple text formats such as Markdown. This has several advantages:
 - Human-readable
@@ -44,7 +44,7 @@ Compare that with many wiki systems where edits are opaque, version history is m
 
 Plain text lowers the barrier to contribution.
 
-## Pull Requests Become Knowledge Reviews 
+## Pull Requests become Knowledge Reviews 
 
 One of the strongest features of Git-based workflows is the pull request.
 
@@ -77,7 +77,7 @@ Each issue can evolve into a documented solution.
 
 Over time, the repository becomes not just documentation, but a record of how knowledge was created.
 
-## What GitHub Solves Better Than Many Corporate Wikis
+## What GitHub solves better than many Corporate Wikis
 
 Many organizations rely on internal documentation platforms such as Confluence or Google Drive.
 
@@ -100,15 +100,15 @@ A repository-based knowledge base addresses these issues naturally because it in
 
 A simple structure often works best:
 
-knowledge-base/
-├── logic
-├── architecture
-├── quality
-├── infrastructure
-├── guide
-├── projects
+`knowledge-base/`
+-`logic/`
+- `architecture/`
+- `quality/`
+- `infrastructure/`
+- `guide/`
+- `projects/`
 
-## Automation Becomes Possible
+## Automation becomes Possible
 
 Once knowledge lives in a repository, automation becomes easy.
 
@@ -121,7 +121,7 @@ Examples include:
 
 A knowledge base can become part of the engineering system itself.
 
-## Knowledge Becomes Observable
+## Knowledge becomes Observable
 
 Another interesting effect: knowledge becomes measurable.
 
@@ -148,7 +148,7 @@ Documentation becomes part of the workflow rather than a separate task.
 
 Engineers don't have to switch tools, learn new systems, or remember to update a distant wiki. The knowledge base lives exactly where they already work.
 
-## When This Model Works Best
+## When this Model works Best
 
 A GitHub-based knowledge base works especially well for:
 - Software Engineering teams
