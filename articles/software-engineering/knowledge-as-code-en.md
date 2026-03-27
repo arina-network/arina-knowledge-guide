@@ -16,7 +16,7 @@ Not metaphorically — structurally.
 
 Information becomes knowledge only when it drives decisions and actions.
 
-OCA loop (Observation -> Computation -> Action) is the minimal flow. Break the loop, and knowledge collapses:
+OCA loop (`Observation` -> `Computation` -> `Action`) is the minimal flow. Break the loop, and knowledge collapses:
 - Observations without processing -> Noise
 - Models without action -> Theory
 - Actions without grounding -> Guesswork
@@ -114,6 +114,32 @@ Real systems do the opposite:
 - Update accordingly
 
 That’s how engineering works. That’s how learning works.
+
+## Where English works
+
+English, or any Natural Language, is enough to describe:
+- space hierarchy
+- structures
+- conditions
+- constraints
+- data flows
+
+Example:
+- “Place a product on Amazon website with price 10 USD per unit.”
+- “This truck can carry no more than 1 ton of cargo.”
+
+This is complete and not contradictory if written properly.
+
+## Where Math is needed
+
+In real systems, simple arithmetic stops being enough. Too many variables. Too many interactions. Too complex calculations. Math is used because it replaces long, repetitive descriptions of calculations.
+
+One formula can encode:
+- many variables
+- their relationships
+- their transformations
+
+Instead of dozens of lines of text. It’s not about execution. It’s about compact and clear description of complex calculations in data flow.
 
 ## Knowledge must be versioned
 
