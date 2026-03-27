@@ -1,5 +1,5 @@
 # Knowledge Base as a GitHub Repository? Why Not!
-_Author [Slava Zemlianskyi](https://www.linkedin.com/in/zemlianskyi/)_
+_Author [Slava Zemlianskyi](https://www.linkedin.com/in/zemlianskyi/), published 2026-03-15._
 
 In many organizations, knowledge bases are treated as something separate from the actual work. They live in corporate wikis, documentation portals, or specialized knowledge management systems. Meanwhile, the real activity—the engineering, decisions, experiments, and fixes—happens somewhere else.
 
