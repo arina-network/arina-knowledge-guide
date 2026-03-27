@@ -6,13 +6,13 @@ But engineers working with real systems often encounter information in a differe
 
 Machines, software systems, robots, aircraft, and industrial plants all operate by observing the world, computing decisions, and acting on the environment. In this sense, information is not merely a property of messages. It is a physical phenomenon that enables **one process to influence another**.
 
-A useful way to understand this is through the **Observation–Calculation–Action loop** (OCA loop).
+A useful way to understand this is through the **Observation–Computation–Action loop** (OCA loop).
 
 ## Two Interacting Physical Processes
 
 Every controlled system can be described as two sets of physical processes.
 
-### 1. The Primary Process
+### The Primary Process
 
 The primary process is the physical system whose behavior we want to influence.
 
@@ -26,7 +26,7 @@ At the microscopic level, these processes consist of enormous numbers of interac
 
 Left alone, the primary process simply evolves according to physical laws.
 
-### 2. The Secondary Process (OCA System)
+### The Secondary Process (OCA System)
 
 The secondary process is an engineered system designed to manage the primary process.
 
@@ -37,7 +37,7 @@ It includes:
 
 This system operates through a continuous loop:
 
-`Observation` -> `Calculation` -> `Action`
+`Observation` -> `Computation` -> `Action`
 
 The OCA system is itself a physical system composed of particles—electrons moving through circuits, charges stored in memory cells, and electromagnetic forces produced by actuators.
 
@@ -65,11 +65,11 @@ This correlation is what we call **information**.
 
 Information is therefore not an abstract entity. It is a **statistical relationship between physical systems**.
 
-## Calculation: Transforming Correlations
+## Computation: Transforming Correlations
 
 After observation, the signal enters the computing system.
 
-The calculation stage processes the observed signal and produces a decision.
+The computation stage processes the observed signal and produces a decision.
 
 Inside the processor this involves purely physical processes:
 - electrons switching transistors
@@ -82,7 +82,7 @@ Digital computing works by maintaining two stable macroscopic configurations—0
 
 These states are designed to be robust against microscopic noise while still allowing rapid transitions during computation.
 
-Thus calculation is the **controlled transformation of correlated physical states**.
+Thus computation is the **controlled transformation of correlated physical states**.
 
 ## Action: Influencing the Primary Process
 
@@ -104,7 +104,7 @@ Action therefore **changes the trajectory of the primary physical process**.
 
 Combining these stages produces a closed cycle:
 
-`Primary process` -> `Observation` -> `Calculation` -> `Action` -> `Primary process`
+`Primary process` -> `Observation` -> `Computation` -> `Action` -> `Primary process`
 
 In physical terms:
 1. The sensor creates correlations between the two systems.
@@ -128,7 +128,7 @@ If the correlation is lost, control fails. Common engineering failures illustrat
 <table>
   <tr><td><b>Stage</b></td><td><b>Failure type</b></td></tr>
   <tr><td>Observation</td><td>sensor noise or drift</td></tr>
-  <tr><td>Calculation</td><td>memory corruption</td></tr>
+  <tr><td>Computation</td><td>memory corruption</td></tr>
   <tr><td>Action</td><td>actuator delay</td></tr>
   <tr><td>System loop</td><td>feedback instability</td></tr>
 </table>	
@@ -137,7 +137,7 @@ Each failure corresponds to the breakdown of correlations between physical proce
 
 ## Information Requires Energy
 
-Because physical systems are subject to noise and thermodynamic disorder, maintaining these correlations requires continuous energy.
+Because physical systems are subject to noise and thermodynamic disorder, maintaining these correlations requires continuous energy. 
 
 Sensors must remain powered. Processors must switch transistors. Memory must preserve charge states. Actuators must deliver forces.
 
@@ -161,7 +161,7 @@ These systems do not manipulate abstract symbols detached from reality. Instead,
 
 The OCA loop provides a clear engineering framework:
 - **Observation** creates correlations.
-- **Calculation** transforms them.
+- **Computation** transforms them.
 - **Action** applies them to the physical world.
 
 Seen from this viewpoint, information is not merely data or knowledge. It is a physical structure of correlations that allows matter to influence the behavior of other matter.
