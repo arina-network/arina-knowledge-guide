@@ -12,3 +12,4 @@ _Created by [Arina Network](https://arina.network/)_
 - [Knowledge as Code. In English. With Math.](/articles/software-engineering/knowledge-as-code-en.md)
 - [Knowledge Base as a GitHub Repository? Why Not!](/articles/software-engineering/knowledge-base-as-github-repository-en.md)
 - [Quality Engineering is the future of Software Testing](/articles/software-engineering/quality-engineering-en.md)
+- [Why LLMs suggest the “average” that doesn’t solve your problem](/articles/software-engineering/why-llm-suggest-average.md)
