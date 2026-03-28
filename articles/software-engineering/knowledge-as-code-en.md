@@ -175,7 +175,7 @@ The difference is not philosophical. It’s operational.
 ## Conclusion
 
 If your knowledge:
- -cannot be executed,
+- cannot be executed,
 - cannot be tested,
 - cannot be updated,
 
