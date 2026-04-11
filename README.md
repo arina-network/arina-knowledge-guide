@@ -9,7 +9,8 @@ _Created by [Arina Network](https://arina.network/)_
 
 ## Communication Theory
 - [What is Information? An Engineering Perspective](/articles/communication-theory/what-is-information-en.md)
-- [What Is Time? An Engineering Approach](/articles/communication-theory/what-is-time-en.md)
+- [What is Time? An Engineering Approach](/articles/communication-theory/what-is-time-en.md)
+- [What is Energy? An Evolutionary View](/articles/communication-theory/what-is-energy.md)
 
 ## AI and Natural Language Research
 - [Evolutionary Method of Constructing Artificial Intelligence Systems](https://link.springer.com/article/10.1007/s10559-019-00106-x)
