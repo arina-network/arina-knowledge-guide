@@ -1,4 +1,4 @@
-# What is Energy? An Evolutionary Approach
+# What is Energy? An Evolutionary View
 _Author [Slava Zemlianskyi](https://www.linkedin.com/in/zemlianskyi/), published 2026-04-11 in [Arina Knowledge Guide](https://github.com/arina-network/arina-knowledge-guide)_
 
 From primitive live creatures to engineering civilization.
