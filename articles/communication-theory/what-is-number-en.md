@@ -1,4 +1,4 @@
-# What is a Number? A Mechanism for Compressing Reality
+# What is Number? A Mechanism for Compressing Reality
 _Author [Slava Zemlianskyi](https://www.linkedin.com/in/zemlianskyi/), published 2026-04-14 in [Arina Knowledge Guide](https://github.com/arina-network/arina-knowledge-guide)_
 
 We treat numbers as abstract truths—clean, objective, detached from life. But a group of living creatures deciding whether to act does not use abstraction. It faces constraints:
