@@ -8,11 +8,11 @@ _Created by [Arina Network](https://arina.network/)_
 - [Why LLMs suggest the “average” that doesn’t solve your problem](/articles/software-engineering/why-llm-suggest-average.md)
 
 ## Communication Theory
-- [What Is Communication? Cooperate to Survive](/articles/communication-theory/what-is-communication-en.md)
+- [What is Communication? Cooperate to Survive](/articles/communication-theory/what-is-communication-en.md)
 - [What is Information? An Engineering Perspective](/articles/communication-theory/what-is-information-en.md)
 - [What is Time? An Engineering Approach](/articles/communication-theory/what-is-time-en.md)
 - [What is Energy? An Evolutionary View](/articles/communication-theory/what-is-energy.md)
-- [What is a Number? A Mechanism for Compressing Reality](/articles/communication-theory/what-is-number-en.md)
+- [What is Number? A Mechanism for Compressing Reality](/articles/communication-theory/what-is-number-en.md)
 
 ## AI and Natural Language Research
 - [Evolutionary Method of Constructing Artificial Intelligence Systems](https://link.springer.com/article/10.1007/s10559-019-00106-x)
