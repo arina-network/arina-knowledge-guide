@@ -236,7 +236,7 @@ Direct, observable reality.
 - **Actors**: human, animal
 - **Processes**: movement, building, erosion
 
-## Biological Layer
+### Biological Layer
 
 Living systems built on top of physical reality.
 - **Spaces**: habitat, body environment
@@ -244,7 +244,7 @@ Living systems built on top of physical reality.
 - **Actors**: animal, human (as biological entity)
 - **Processes**: growth, metabolism, reproduction
 
-## Social Layer
+### Social Layer
 
 Interaction between people.
 - **Spaces**: community, network of relationships
@@ -252,7 +252,7 @@ Interaction between people.
 - **Actors**: individual in a role (friend, manager)
 - **Processes**: communication, coordination, conflict
 
-## Legal Layer (virtual, but operational)
+### Legal Layer (virtual, but operational)
 
 A constructed system that defines rights and actions.
 - **Spaces**: jurisdiction, legal domain
@@ -263,7 +263,7 @@ A constructed system that defines rights and actions.
 Example:
 > A “company” exists here as an actor — even without physical form.
 
-## Financial Layer (virtual extension of reality)
+### Financial Layer (virtual extension of reality)
 
 Extention of physical world.
 - **Spaces**: bank accounts, ledgers
@@ -274,7 +274,7 @@ Extention of physical world.
 Example:
 > “Money” exists almost entirely in this layer, but directly affects physical outcomes.
 
-## Digital Layer
+### Digital Layer (completely virtual)
 
 Independent virtual world.
 - **Spaces**: memory, file systems, networks
