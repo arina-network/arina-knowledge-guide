@@ -1,11 +1,11 @@
 # Evolution of Nouns in Natural Language: from Structures to Multi-Layered Reality
 
-Language is not a passive reflection of reality. It is a tool humans use to build, stabilize, and share semantic models of the world. Within this toolset, nouns play a central role. A noun is a syntax tool: it allows an actor to fix a reference inside a model so it can be reused, communicated, and reasoned about.
+Language is not a passive reflection of reality. It is a tool humans use to build, stabilize, and share semantic models of the world. Within this toolset, nouns play a central role. A noun is a **syntax tool**: it allows an actor to fix a reference inside a model so it can be reused, communicated, and reasoned about.
 
 The key idea of this article is simple:
 > Nouns were not reinvented over time. The same syntax tool was extended as human semantic models became more complex.
 
-What changed was not the noun itself, but what it was used to refer to.
+What changed was not the noun itself, but **what it was used to refer to**.
 
 ## Structures — naming what is there
 
@@ -59,7 +59,7 @@ The problem being solved:
 
 ## Actors — attributing source of change
 
-Once processes are modeled, a new question emerges:
+Once processes are modeled and syncronized, a new question emerges:
 > What causes them?
 
 Nouns extend to actors:
@@ -77,6 +77,33 @@ This introduces:
 The problem being solved:
 > How do we attribute and coordinate sources of action?
 
+## Time — structuring change itself
+
+To use processes actors should synchronize own actions with them. Early time nouns come from natural cycles:
+- day (light/dark)
+- season (climate patterns)
+
+As models evolved, time became more precise:
+- hour, minute (social coordination)
+- second, millisecond, nanosecond (science and technology)
+
+Time also becomes the foundation for metrics:
+- speed = distance / time
+- frequency = events / time
+
+Time nouns are:
+> Standardized segments of change, extracted from recurring patterns.
+
+It enables:
+- synchronization (“tomorrow”, “next week”)
+- planning
+- repetition
+
+Before modeling processes precisely, humans had to name time itself.
+
+The problem being solved:
+> How do we coordinate and reason about change?
+ 
 ## Groups — compressing many into one
 
 As scale increases, reasoning about each element individually becomes inefficient. Nouns extend to groups:
@@ -225,40 +252,45 @@ Nouns make this possible by:
 Each layer contains the same core elements:
 - Spaces
 - Structures
-- Actors
 - Processes
+- Time
+- Actors
 
 ### Physical Layer
 
 Direct, observable reality.
 - **Spaces**: geographic space, terrain, coordinates
 - **Structures**: stone, house, road
-- **Actors**: human, animal
 - **Processes**: movement, building, erosion
+- **Actors**: human, animal
+- **Time**: day, season
 
 ### Biological Layer
 
 Living systems built on top of physical reality.
 - **Spaces**: habitat, body environment
 - **Structures**: cell, organ, organism
-- **Actors**: animal, human (as biological entity)
 - **Processes**: growth, metabolism, reproduction
+- **Actors**: animal, human (as biological entity)
+- **Time**: life cycle, circadian rhythm
 
 ### Social Layer
 
 Interaction between people.
 - **Spaces**: community, network of relationships
 - **Structures**: family, organization, institution
-- **Actors**: individual in a role (friend, manager)
 - **Processes**: communication, coordination, conflict
+- **Actors**: individual in a role (friend, manager)
+- **Time**: schedule, workday
 
 ### Legal Layer (virtual, but operational)
 
 A constructed system that defines rights and actions.
 - **Spaces**: jurisdiction, legal domain
 - **Structures**: contract, regulation, ownership
-- **Actors**: legal entity (company, citizen)
 - **Processes**: signing, enforcement, litigation
+- **Actors**: legal entity (company, citizen)
+- **Time**: deadlines, terms
 
 Example:
 > A “company” exists here as an actor — even without physical form.
@@ -268,8 +300,9 @@ Example:
 Extention of physical world.
 - **Spaces**: bank accounts, ledgers
 - **Structures**: balance, asset, liability
-- **Actors**: account holder, bank, institution
 - **Processes**: payment, transfer, settlement
+- **Actors**: account holder, bank, institution
+- **Time**: settlement period
 
 Example:
 > “Money” exists almost entirely in this layer, but directly affects physical outcomes.
@@ -279,15 +312,16 @@ Example:
 Independent virtual world.
 - **Spaces**: memory, file systems, networks
 - **Structures**: file, database, object
-- **Actors**: user, service, software agent
 - **Processes**: computation, API call, data processing
+- **Actors**: user, service, software agent
+- **Time**: timestamp, execution cycle
 
 Example:
 > A “server” or “service” acts as an actor in this space.
 
 ## Conclusion
 
-Nouns in natural language began as a way to name physical structures. As human semantic models expanded, the same syntax tool was extended to refer to space, processes, actors, groups and abstract structures. Metrics further extended noun usage into measurement and control.
+Nouns in natural language began as a way to name physical structures. As human semantic models expanded, the same syntax tool was extended to refer to space, processes, actors, time, groups and abstract structures. Metrics further extended noun usage into measurement and control.
 
 With hierarchical thinking, nouns became scale-independent across nested models. With the emergence of virtual worlds, they enabled the construction of entire model layers with their own structures, spaces, processes, and actors. These layers do not merely describe reality — they extend it, becoming operational parts of it.
 
