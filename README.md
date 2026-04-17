@@ -15,7 +15,8 @@ _Created by [Arina Network](https://arina.network/)_
 - [What is Number? A Mechanism for Compressing Reality](/articles/communication-theory/what-is-number-en.md)
 
 ## Natural Language
-- [Evolution of Nouns in Natural Language: from Structures to Multi-Layered Reality](/articles/natural-language/evolution-of-nouns.md)
+- [Evolution of Nouns in Natural Language: from Structures to Multi-Layered Reality](/articles/natural-language/evolution-of-nouns-en.md)
+- [Adjectives and Adverbs: evolution of Categorization in Natural Language](/articles/natural-language/evolution-of-categorization-en.md)
 
 ## Artificial Intelligence Research
 - [Evolutionary Method of Constructing Artificial Intelligence Systems](https://link.springer.com/article/10.1007/s10559-019-00106-x)
