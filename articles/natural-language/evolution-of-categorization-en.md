@@ -1,4 +1,4 @@
-# Adjectives and Adverbs in Natural Language: evolution of Categorization
+# Adjectives and Adverbs: evolution of Categorization in Natural Language
 
 We usually think of adjectives and adverbs as secondary elements of language — modifiers that decorate nouns and verbs. But from an evolutionary and technological perspective, they are something much more fundamental:
 > They are mechanisms for compressing, refining, and synchronizing our models of reality.
