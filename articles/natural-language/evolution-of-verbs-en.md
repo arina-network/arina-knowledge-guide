@@ -345,6 +345,6 @@ With this, language becomes capable of representing:
 - not just what happens
 - but how complex systems of processes are organized
 
-In this sense, мerbs no longer just about description of processes through the passage of time. They are about structure.
+In this sense, verbs no longer just about description of processes through the passage of time. They carry a model of change — sometimes simple, sometimes deeply structured — that allows us not only to describe reality, but to organize and reshape it.
 
 And through them, natural language becomes a tool not just for communication, but for designing reality itself.
