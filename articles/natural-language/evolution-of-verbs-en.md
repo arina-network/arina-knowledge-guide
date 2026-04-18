@@ -1,12 +1,21 @@
 # Evolution of Verbs: from Signals to Hierarchical Processes
 _Author [Slava Zemlianskyi](https://www.linkedin.com/in/zemlianskyi/), published 2026-04-18 in [Arina Knowledge Guide](https://github.com/arina-network/arina-knowledge-guide)_
 
-Verbs did not emerge fully formed as tense-rich, flexible tools of expression. They evolved step by step, tracking the growing ability of humans to perceive, remember, predict, and ultimately structure reality as processes.
+Verbs are usually treated as a grammatical category — a way to describe actions, states, and events. But this view misses something deeper: verbs are not just linguistic elements, they are structures for representing change over time.
 
-Verbs began as immediate triggers for action, but over time they evolved into tools for describing, organizing, and ultimately structuring complex, hierarchical processes.
+This article does not attempt to reconstruct the exact historical evolution of verbs in human languages. Real linguistic history is messy, non-linear, and shaped by many parallel developments. Instead, what follows is a conceptual model — a way to understand how verbs can evolve as tools for encoding increasingly complex processes.
 
-This evolution mirrors a deeper shift: 
-> from reacting to the world -> to modeling it -> to building layered systems of actions within actions.
+We can think of this evolution as a progression:
+- from immediate action signals
+- to descriptions of observable processes
+- to memory of past events
+- to sequences and causal chains
+- to predictions and plans
+- and finally to structured, hierarchical processes
+
+At each step, verbs gain expressive power. They move from triggering behavior to describing reality, then to modeling it, and eventually to organizing it.
+
+In this sense, verbs are not just about language. They are an interface between cognition and time — and ultimately, a way to represent processes that can be shared, reused, and composed.
 
 ## Primitive Calls to Action: flat reality
 
