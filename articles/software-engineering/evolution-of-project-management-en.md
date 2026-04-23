@@ -57,7 +57,7 @@ But it breaks when:
 Waterfall works when reality is stable and observable only at coarse granularity. Its limitation is fundamental:
 > Waterfall assumes the world does not meaningfully change during execution.
 
-## Agile: Managing Change (Iterative Time, Feedback Measurement, Emerging Ownership)
+## Agile: Managing Change (iterative time, feedback measurement, emerging ownership)
 
 Agile emerged as a reaction — not to improve planning, but to admit its limits. Instead of eliminating uncertainty, Agile tries to adapt to it continuously.
 
@@ -101,7 +101,7 @@ Agile works better in:
 Agile acknowledges change — but still operates within a known direction.
 > You are adjusting the path, not questioning the destination.
 
-## Lean & Product Thinking: Managing Value (Continuous Time, Quantitative Measurement, Accountability)
+## Lean & Product Thinking: Managing Value (continuous time, quantitative measurement, accountability)
 
 The next rupture came from a different question:
 > What if we are building the wrong thing entirely?
@@ -149,57 +149,62 @@ This stage moves closer to exploration, but still operates within constraints:
 But even here, something remains fixed:
 > The problem space is assumed to be understood. Exploration is limited to solutions
 
-## Research: Managing the Unknown (Expanding Time, Instrumented Measurement, Intrinsic Responsibility)
+## Research: Managing the Unknown (expanding time, instrumented measurement, intrinsic responsibility)
 
-At the frontier, even the problem dissolves.
+At the frontier, even the problem dissolves. You are no longer:
+- executing a plan
+- iterating a solution
+- optimizing a product
 
-You are no longer:
+You are mapping an unknown space. Here:
+- there may be no clear problem definition
+- there may be no known solution space
+- even success criteria may evolve
 
-Executing a plan
-Iterating a solution
-Optimizing a product
-
-You are mapping an unknown space.
-
+Core assumptions:
+- the problem itself is unknown
+- the space must be mapped before decisions
+- learning is the primary output
+- 
 Shift in time:
-
-From continuous → to open-ended
+> from continuous -> to open-ended
 
 Some systems:
+- evolve over decades (operating systems, infrastructure, ecosystems)
+- outlive their creators
+- never reach a “final” state
 
-Evolve over decades (operating systems, infrastructure, ecosystems)
-Outlive their creators
-Never reach a “final” state
 Shift in measurement:
-
-From metrics → to instrumentation of reality
+> from metrics -> to instrumentation of reality
 
 You don’t just track outcomes—you:
-
-Build observability systems
-Create new metrics
-Redefine what “progress” means
+- build observability systems
+- create new metrics
+- redefine what “progress” means
 
 Measurement itself becomes part of the work.
 
 Shift in motivation:
-
-From accountability → to intrinsic responsibility
+> from accountability → to intrinsic responsibility
 
 At this level:
-
-No one can fully specify what to do
-No external control is sufficient
-Progress depends on individuals choosing to care about truth and clarity
+- no one can fully specify what to do
+- no external control is sufficient
+- progress depends on individuals choosing to care about truth and clarity
 
 This is the critical transition:
-
-From “doing tasks” → to “taking responsibility for understanding”
+> from “doing tasks” -> to “taking responsibility for understanding”
 
 Underlying structure:
-Time → potentially infinite
-Measurement → evolving, system-level
-Motivation → internal responsibility
+- time -> potentially infinite
+- measurement -> evolving, system-level
+- motivation -> internal responsibility
+
+This mode is common in:
+- Deep tech
+- New scientific domains
+- Fundamental platform development
+- Early-stage innovation
 
 ## Three Axes of Evolution
 
