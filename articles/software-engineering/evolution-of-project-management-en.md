@@ -24,16 +24,6 @@ Core assumptions:
 - the solution is definable upfront
 - change is an error, not a signal
 
-Waterfall works well in environments where:
-- Physics dominates (construction, manufacturing)
-- Variability is low
-- Cost of change is extremely high
-
-But it breaks when:
-- Requirements are unclear
-- Users themselves don’t know what they need
-- The environment evolves during development
-
 Waterfall project management emerged in a world where:
 - projects were finite and relatively short (months or a few years)
 - progress was hard to measure continuously
@@ -54,87 +44,110 @@ Underlying structure:
 - measurement -> sparse (milestones)
 - motivation -> compliance
 
+Waterfall works well in environments where:
+- Physics dominates (construction, manufacturing)
+- Variability is low
+- Cost of change is extremely high
+
+But it breaks when:
+- Requirements are unclear
+- Users themselves don’t know what they need
+- The environment evolves during development
+
 Waterfall works when reality is stable and observable only at coarse granularity. Its limitation is fundamental:
 > Waterfall assumes the world does not meaningfully change during execution.
 
 ## Agile: Managing Change (Iterative Time, Feedback Measurement, Emerging Ownership)
 
+Agile emerged as a reaction — not to improve planning, but to admit its limits. Instead of eliminating uncertainty, Agile tries to adapt to it continuously.
+
 As systems became more complex—especially in software—the old assumptions broke.
 
 Projects became:
-
-Less predictable
-More interactive
-More dependent on user feedback
-Shift in time:
-
-From one long plan → to many short cycles
-
-Shift in measurement:
-
-From final validation → to continuous feedback
-
-Shift in motivation:
-
-From pure execution → to team engagement and partial ownership
+- less predictable
+- more interactive
+- more dependent on user feedback
 
 Agile introduces:
+- iterations instead of phases
+- feedback instead of final validation
+- priorities instead of fixed scope
+- adaptation of stability
 
-Iterations
-Reviews
-Adaptation
+Core assumptions:
+- the problem is partially unknown
+- the solution emerges through interaction
+- change is expected and valuable
+
+Shift in time:
+> from one long plan -> to many short cycles
+
+Shift in measurement:
+> from final validation ->  to continuous feedback
+
+Shift in motivation:
+> from pure execution -> to team engagement and partial ownership
+ 
 Underlying structure:
-Time → sliced into iterations
-Measurement → frequent but still qualitative
-Motivation → mixed (management + team autonomy)
+- time -> sliced into iterations
+- measurement -> frequent but still qualitative
+- motivation -> mixed (management + team autonomy)
 
-Agile acknowledges change—but still operates within a known direction.
+Agile works better in:
+- Software development
+- Product design
+- User-driven systems
 
-You are adjusting the path, not questioning the destination.
+Agile acknowledges change — but still operates within a known direction.
+> You are adjusting the path, not questioning the destination.
 
 ## Lean & Product Thinking: Managing Value (Continuous Time, Quantitative Measurement, Accountability)
 
 The next rupture came from a different question:
-
-What if we are building the wrong thing entirely?
+> What if we are building the wrong thing entirely?
 
 Now the focus shifts from execution to decision quality.
 
+Lean and product-oriented approaches introduced:
+- hypotheses instead of requirements
+- experiments instead of features
+- metrics instead of outputs
+
+Core assumptions:
+- value is uncertain
+- users reveal truth through behavior
+- waste comes from wrong decisions, not just inefficiency
+
 Shift in time:
+> from iterations -> to continuous product lifecycle
 
-From iterations → to continuous product lifecycle
-
-Products no longer “end”—they evolve.
+Products no longer “end” — they evolve.
 
 Shift in measurement:
-
-From feedback → to metrics
-
-Conversion rates
-Retention
-Behavioral data
+> from feedback -> to metrics
 
 Measurement becomes:
+- Quantitative
+- Continuous
+- Comparable
 
-Quantitative
-Continuous
-Comparable
 Shift in motivation:
+> from participation -> to accountability for outcomes
 
-From participation → to accountability for outcomes
-
-Teams are no longer just building features.
-They are responsible for results.
+Teams are no longer just building features. They are responsible for results.
 
 Underlying structure:
-Time → continuous
-Measurement → data-driven
-Motivation → ownership of impact
+- time -> continuous
+- measurement -> data-driven
+- motivation -> ownership of impact
+
+This stage moves closer to exploration, but still operates within constraints:
+- Markets are somewhat understood
+- Problems are framed
+- Success metrics are predefined
 
 But even here, something remains fixed:
-
-The problem space is assumed to be understood
-Exploration is limited to solutions
+> The problem space is assumed to be understood. Exploration is limited to solutions
 
 ## Research: Managing the Unknown (Expanding Time, Instrumented Measurement, Intrinsic Responsibility)
 
