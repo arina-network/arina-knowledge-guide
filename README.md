@@ -8,17 +8,20 @@ _Created by [Arina Network](https://arina.network/)_
 - [Quality Engineering is the future of Software Testing](/articles/software-engineering/quality-engineering-en.md)
 - [Why LLMs suggest the “average” that doesn’t solve your problem](/articles/software-engineering/why-llm-suggest-average.md)
 
+## Natural Language
+- [Evolution of Nouns: from Structures to Multi-Layered Reality](/articles/natural-language/evolution-of-nouns-en.md)
+- [Evolution of Verbs: from Signals to Hierarchical Processes](/articles/natural-language/evolution-of-verbs-en.md)
+- [Adjectives and Adverbs: Evolution of Categorization](/articles/natural-language/evolution-of-categorization-en.md)
+
+## Artificial Life Form
+- [What is Life? An Information Perspective](/articles/communication-theory/what-is-life-en.md)
+
 ## Communication Theory
 - [What is Communication? Cooperate to Survive](/articles/communication-theory/what-is-communication-en.md)
 - [What is Information? An Engineering Perspective](/articles/communication-theory/what-is-information-en.md)
 - [What is Time? An Engineering Approach](/articles/communication-theory/what-is-time-en.md)
 - [What is Energy? An Evolutionary View](/articles/communication-theory/what-is-energy.md)
 - [What is Number? A Mechanism for Compressing Reality](/articles/communication-theory/what-is-number-en.md)
-
-## Natural Language
-- [Evolution of Nouns: from Structures to Multi-Layered Reality](/articles/natural-language/evolution-of-nouns-en.md)
-- [Evolution of Verbs: from Signals to Hierarchical Processes](/articles/natural-language/evolution-of-verbs-en.md)
-- [Adjectives and Adverbs: Evolution of Categorization](/articles/natural-language/evolution-of-categorization-en.md)
 
 ## Artificial Intelligence Research
 - [Evolutionary Method of Constructing Artificial Intelligence Systems](https://link.springer.com/article/10.1007/s10559-019-00106-x)
