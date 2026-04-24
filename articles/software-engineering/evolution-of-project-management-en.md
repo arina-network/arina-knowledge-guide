@@ -210,83 +210,189 @@ This mode is common in:
 
 Instead of a single timeline, project management evolves along three axes:
 
-1. Time Horizon
-Finite → Iterative → Continuous → Open-ended
-2. Measurement Capability
-Milestones → Feedback → Metrics → Instrumentation
-3. Human Motivation
-Force → Coordination → Accountability → Responsibility
-6. Reframing the Models
-Mode	Time	Measurement	Motivation	Goal
-Waterfall	Finite	Milestones	Force	Execute plan
-Agile	Iterative	Feedback	Engagement	Adapt solution
-Lean/Product	Continuous	Metrics	Accountability	Optimize value
-Research	Open-ended	Instrumentation	Responsibility	Discover reality
+### Time Horizon
+> Finite -> Iterative -> Continuous -> Open-ended
 
-This is not a replacement chain.
+### Measurement Capability
+> Milestones -> Feedback -> Metrics -> Instrumentation
 
-It is an expansion of capability.
+### Human Motivation
+> Force -> Coordination -> Accountability -> Responsibility
 
-## Why This Shift Is Irreversible
+## Reframing the Models
+
+All these approaches can be understood along a single dimension:
+> How much of reality is known before action begins?
+
+<table>
+ <tr>
+  <th>Mode</th>
+  <th>Knowledge Level</th>
+  <th>Time</th>
+  <th>Measurement</th>
+  <th>Motivation</th>
+  <th>Goal</th>
+  <th>Primary Activity</th>
+ </tr>
+ <tr>
+  <td>Waterfall</td>
+  <td>High</td>
+  <td>Finite</td>
+  <td>Milestones</td>
+  <td>Force</td>
+  <td>Execute plan</td>
+  <td>Implementation</td>
+ </tr>
+ <tr>
+  <td>Agile</td>
+  <td>Medium</td>
+  <td>Iterative</td>
+  <td>Feedback</td>
+  <td>Engagement</td>
+  <td>Adapt solution</td>
+  <td>Iteration</td>
+ </tr>
+ <tr>
+  <td>Lean/Product</td>
+  <td>Low</td>
+  <td>Continuous</td>
+  <td>Metrics</td>
+  <td>Accountability</td>
+  <td>Optimize value</td>
+  <td>Experimentation</td>
+ </tr>
+ <tr>
+  <td>Research</td>
+  <td>Unknown</td>
+  <td>Open-ended</td>
+  <td>Instrumentation</td>
+  <td>Responsibility</td>
+  <td>Discover reality</td>
+  <td>Exploration</td>
+ </tr>
+</table>
+
+This is not a replacement chain, it is an expansion of capability.
+
+## Why this shift is Irreversible
+
+As systems become more complex:
+- interactions increase
+- dependencies grow
+- predictability decreases
 
 Three forces drive this evolution:
-
-Time expansion
-Systems no longer end—they evolve
-Measurement technology
-We can now observe reality in real time and high resolution
-Human complexity
-Creativity and understanding cannot be forced—only owned
+- Time expansion: systems no longer end, they evolve
+- Measurement technology: we can now observe reality in real time and high resolution
+- Human complexity: creativity and understanding cannot be forced—only owned
 
 As a result:
-
-Control breaks down
-Planning becomes insufficient
-Even optimization is too narrow
+- control breaks down
+- planning fails
+- Iteration becomes insufficient
+- even experimentation is too narrow
 
 What remains is exploration under responsibility.
 
-8. The Future: Projects as Knowledge Systems
+## The Future: Projects as Knowledge Systems
 
-A modern project is no longer a plan.
+The next step is not another methodology, but a redefinition:
+> A project is not a sequence of tasks, it is a system for reducing uncertainty.
 
-It is:
-
-A long-lived system
-Continuously measured
-Driven by responsible actors
-Designed to reduce uncertainty
+A modern project is:
+- a long-lived system
+- continuously measured
+- driven by responsible actors
+- designed to reduce uncertainty
 
 In this view:
+- tasks are temporary
+- knowledge is an artifact
+- code is an implementation
+- metrics are sensors
+- teams are thinking units
 
-Tasks are temporary
-Code is an artifact
-Metrics are sensors
-Teams are thinking units
+And progress is not completion, it is increased understanding over time.
 
-And progress is not completion.
+## Constraints: the Limitations of the Real World
 
-It is increased understanding over time.
+Any system in the Real World operates under irreducible constraints:
+- Resources are limited
+> Time, capital, attention, and energy are never infinite
+- Reality has hard boundaries
+> Physics, infrastructure, and organizational limits define what is possible
+- Computation has limits
+> Not everything can be solved efficiently — some problems are intractable, approximate, or unsolvable in practice
+
+These constraints do not disappear as we move toward. They become more visible and more important.
+
+### The role of measurement revisited
+
+Measurement is not just about observing progress, it is about understanding:
+- where resources are being consumed
+- which constraints are binding
+- where effort produces the highest return
+
+In advanced systems, measurement answers:
+> What is worth exploring next, given what we cannot change?
+
+### Creativity as the only escape vector
+
+Within constraints, there are only two options:
+- optimize within known limits
+- or redefine the limits themselves
+
+This is where creativity becomes central. Creativity, whether human or AI, is the ability to:
+- reframe problems
+- find unexpected paths
+- combine existing knowledge into new structures
+
+It is the only mechanism that allows systems to:
+- bypass local optima
+- discover new solution spaces
+- make previously impossible things feasible
+
+Without creativity, research collapses into blind search. Without constraints, creativity has no direction.
+
+### Responsibility in a constrained world
+
+As constraints become clearer and systems more complex, responsibility deepens:
+- you cannot do everything
+- you cannot explore all paths
+- you cannot ignore trade-offs
+
+So responsibility becomes:
+- choosing where to spend limited resources
+- deciding which constraints to challenge
+- and accepting the consequences of those choices
+
+This applies equally to:
+- individuals
+- teams
+- and increasingly, AI systems acting within defined boundaries
+
+### Definition of project
+
+> Modern Project is a constrained, long-lived system that uses measurement to guide exploration and relies on human and AI creativity to expand what is possible over time.
 
 ## Conclusion
 
-The evolution of project management is not about better frameworks.
+The evolution of project management reflects a deeper realization:
+- first, we tried to control reality
+- then, we tried to adapt to it
+- then, to test it
+- now, we must understand it
 
-It is about a deeper shift:
+It is not about better frameworks, but about a deeper shift:
+- from short-term efforts -> to living systems
+- from unconstrained planning -> to navigating real limits
+- from low visibility -> to continuous measurement
+- from forced labor -> to responsible ownership
 
-From short-term efforts → to living systems
-From blind execution → to measurable reality
-From forced labor → to responsible thinking
+**Waterfall** assumes the world is known.
+**Agile** accepts it is changing.
+**Lean** measures its value.
+**Research** explores its unknowns.
 
-Waterfall assumes the world is known.
-Agile accepts it is changing.
-Lean measures its value.
-Research admits it must be discovered.
-
-And as projects stretch across decades,
-with continuous measurement and autonomous teams,
-
-project management becomes something else entirely:
-
-Not the management of work,
-but the organization of knowledge, time, and responsibility.
+And as projects stretch across decades, with continuous measurement and autonomous teams, project management becomes something else entirely:
+> Modern Project Management is not the management of work, but the organization of knowledge, time, resources, responsibility and creative effort - to continuously redefine what is possible and valuable.
