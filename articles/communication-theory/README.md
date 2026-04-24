@@ -18,6 +18,6 @@ Rather than treating communication as abstract information exchange, this approa
 - [What is Life? An Information Perspective](/articles/communication-theory/what-is-life-en.md)
 
 ## Natural Language
-- [Evolution of Nouns: from Structures to Multi-Layered Reality](/articles/natural-language/evolution-of-nouns-en.md)
-- [Evolution of Verbs: from Signals to Hierarchical Processes](/articles/natural-language/evolution-of-verbs-en.md)
-- [Adjectives and Adverbs: Evolution of Categorization](/articles/natural-language/evolution-of-categorization-en.md)
+- [Evolution of Nouns: from Structures to Multi-Layered Reality](/articles/communication-theory/evolution-of-nouns-en.md)
+- [Evolution of Verbs: from Signals to Hierarchical Processes](/articles/communication-theory/evolution-of-verbs-en.md)
+- [Adjectives and Adverbs: Evolution of Categorization](/articles/communication-theory/evolution-of-categorization-en.md)
