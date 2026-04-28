@@ -21,7 +21,7 @@ _Created by [Arina Network](https://arina.network/)_
 - [What is Communication? Cooperate to Survive](/articles/communication-theory/what-is-communication-en.md)
 - [What is Information? An Engineering Perspective](/articles/communication-theory/what-is-information-en.md)
 - [What is Time? An Engineering Approach](/articles/communication-theory/what-is-time-en.md)
-- [What is Energy? An Evolutionary View](/articles/communication-theory/what-is-energy.md)
+- [What is Energy? An Evolutionary View](/articles/communication-theory/what-is-energy-en.md)
 - [What is Number? A Mechanism for Compressing Reality](/articles/communication-theory/what-is-number-en.md)
 
 ## Artificial Intelligence Research
